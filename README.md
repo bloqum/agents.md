@@ -9,7 +9,7 @@ Maintain a single Continuity Ledger for this workspace in `CONTINUITY.md`. The l
 - If you notice missing recall or a compaction/summary event: refresh/rebuild the ledger from visible context, mark gaps UNCONFIRMED, ask up to 1–3 targeted questions, then continue.
 
 ### functions.update_plan vs the Ledger
--: сам Грек Брокман поделиis (https://x.com/gdb/status/2002821236385288607?s=46) for short-term execution scaffolding while you work (a small 3–7 step plan with pending/in_progress/completed).
+- for short-term execution scaffolding while you work (a small 3–7 step plan with pending/in_progress/completed).
 - CONTINUITY.md is for long-running continuity across compaction (the “what/why/current state”), not a step-by-step task list.
 - Keep them consistent: when the plan or state changes, update the ledger at the intent/progress level (not every micro-step).
 
